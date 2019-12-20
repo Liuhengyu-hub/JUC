@@ -1,4 +1,4 @@
-package test;
+package test.t3;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
