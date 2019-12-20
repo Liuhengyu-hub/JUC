@@ -1,4 +1,4 @@
-package test;
+package test.t4;
 
 
 import java.util.*;
