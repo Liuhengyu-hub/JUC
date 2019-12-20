@@ -1,4 +1,4 @@
-package test;
+package test.t2;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
