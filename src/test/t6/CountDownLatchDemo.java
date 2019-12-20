@@ -1,4 +1,6 @@
-package test;
+package test.t6;
+
+import test.t5.CountryEnum;
 
 import java.util.concurrent.CountDownLatch;
 
